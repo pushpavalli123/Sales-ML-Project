@@ -1,0 +1,4 @@
+Model,Algorithm,Performance,Key_Insight
+Sales Prediction,Gradient Boosting,R²=0.9829,Unit price is most important feature
+Customer Segmentation,K-Means (K=3),Silhouette=0.3752,2 customer segments identified
+Profit Classification,Decision Tree,Accuracy=0.9208,Discount significantly impacts profit category
