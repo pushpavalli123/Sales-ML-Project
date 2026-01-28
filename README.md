@@ -36,7 +36,7 @@ This project analyzes retail sales data to uncover actionable insights about:
 - **Product Performance** - Top performers and category analysis
 - **Predictive Analytics** - ML models for sales forecasting
 
-### Duration: 2-3 Weeks | Skill Level: Beginner/Intermediate
+
 
 ---
 
